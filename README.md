@@ -35,4 +35,9 @@ This entire repo is for showing devs on how to Maintain,Manage and Control Apps 
 ![UI](https://user-images.githubusercontent.com/34340232/154377276-92a642ad-3fb8-41aa-ac77-332177c841bd.png)
 
 
+# An important thing to consider 
+
+## This is the screenshot from the alpha-version of the Application 
+![Impotant](https://user-images.githubusercontent.com/34340232/154378335-7aadff89-2dac-4be8-90f7-6a2d2ce2b342.png)
+
 
